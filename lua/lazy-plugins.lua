@@ -46,6 +46,7 @@ require('lazy').setup({
   require 'kickstart/plugins/mini',
 
   require 'kickstart/plugins/treesitter',
+  require 'kickstart/plugins/nvim-colorizer',
 
   -- require 'kickstart.plugins.trouble',
 
